@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+qiszar.my	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22IDJK%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22F941A035-e508-4F62-abd5-76afe51c29e1%22%7D
+qiszar.my	TRUE	/	FALSE	1999999999	_landing_page	%2F
+qiszar.my	TRUE	/	FALSE	1999999999	_shopify_country	Indonesia
+qiszar.my	TRUE	/	FALSE	1999999999	localization	ID
+qiszar.my	TRUE	/	FALSE	1999999999	_shopify_y	e9f4fbc2-a347-463a-91b1-29173fc05232
+qiszar.my	TRUE	/	FALSE	1999999999	_shopify_s	74541200-4ef5-4583-9cc1-11f0af99e2d5
+qiszar.my	TRUE	/	FALSE	1999999999	keep_alive	ef5d6688-864c-42e8-aa5e-e353c479f8b5
+qiszar.my	TRUE	/	FALSE	1999999999	SameSite	Lax
+
